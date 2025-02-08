@@ -8,7 +8,7 @@
 </div>
 
 ## About me
-delighted with videotechnologies. mantain CDN with over four hundred servers. interested in embedded and functional programming. like to automate things <3
+delighted with videotechnologies. maintain CDN with over four hundred servers. interested in embedded and functional programming. like to automate things <3
 
 ### Skills
 - linux system administration (almost four years of work experience)
